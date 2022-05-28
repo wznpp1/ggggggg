@@ -1,0 +1,40 @@
+proxies:
+  - {name: 🇭🇰 香港017, server: Global.JaPan.BigDate.Skyoto.NNNDate.com, port: 45900, type: ss, cipher: aes-256-gcm, password: 610c3122-d2fa-4dd6-a531-62db9b0deb05}
+  - {name: 🇭🇰 香港016, server: Global.JaPan.BigDate.Skyoto.NNNDate.com, port: 45901, type: ss, cipher: aes-256-gcm, password: 610c3122-d2fa-4dd6-a531-62db9b0deb05}
+  - {name: 🇭🇰 香港018, server: Global.JaPan.BigDate.Skyoto.NNNDate.com, port: 45902, type: ss, cipher: aes-256-gcm, password: 610c3122-d2fa-4dd6-a531-62db9b0deb05}
+  - {name: 🇭🇰 香港019, server: Global.JaPan.BigDate.Skyoto.NNNDate.com, port: 45903, type: ss, cipher: aes-256-gcm, password: 610c3122-d2fa-4dd6-a531-62db9b0deb05}
+  - {name: 🇭🇰 香港020, server: Global.JaPan.BigDate.Skyoto.NNNDate.com, port: 45904, type: ss, cipher: aes-256-gcm, password: 610c3122-d2fa-4dd6-a531-62db9b0deb05}
+  - {name: 🇭🇰 香港021, server: Global.JaPan.BigDate.Skyoto.NNNDate.com, port: 45905, type: ss, cipher: aes-256-gcm, password: 610c3122-d2fa-4dd6-a531-62db9b0deb05}
+  - {name: 🇭🇰 香港流媒体解锁08, server: Global.Japan.BigDate.HK.NNNDate.com, port: 45936, type: ss, cipher: aes-128-gcm, password: 610c3122-d2fa-4dd6-a531-62db9b0deb05}
+  - {name: 🇯🇵 日本解锁流媒体029, server: Global.Japan.BigDate.Tokyo.NNNDate.com, port: 45913, type: ss, cipher: aes-256-gcm, password: 610c3122-d2fa-4dd6-a531-62db9b0deb05}
+  - {name: 🇯🇵 日本解锁流媒体028, server: Global.Japan.BigDate.Tokyo.NNNDate.com, port: 45912, type: ss, cipher: aes-256-gcm, password: 610c3122-d2fa-4dd6-a531-62db9b0deb05}
+  - {name: 🇯🇵 日本解锁流媒体027, server: Global.Japan.BigDate.Tokyo.NNNDate.com, port: 45911, type: ss, cipher: aes-256-gcm, password: 610c3122-d2fa-4dd6-a531-62db9b0deb05}
+  - {name: 有问题请随时联系我们, server: Global.Japan.BigDate.Tokyo.NNNDate.com, port: 45913, type: ss, cipher: aes-256-gcm, password: 610c3122-d2fa-4dd6-a531-62db9b0deb05}
+  - {name: 🇹🇼 台湾流媒体解锁065, server: Global.Japan.BigDate.Kyoto.NNNDate.com, port: 45916, type: ss, cipher: aes-256-gcm, password: 610c3122-d2fa-4dd6-a531-62db9b0deb05}
+  - {name: 🇹🇼 台湾流媒体解锁030, server: Global.Japan.BigDate.Kyoto.NNNDate.com, port: 35914, type: ss, cipher: aes-256-gcm, password: 610c3122-d2fa-4dd6-a531-62db9b0deb05}
+  - {name: 🇹🇼 台湾流媒体解锁031, server: Global.Japan.BigDate.Kyoto.NNNDate.com, port: 45915, type: ss, cipher: aes-256-gcm, password: 610c3122-d2fa-4dd6-a531-62db9b0deb05}
+  - {name: 购买flyint.cc, server: Global.Japan.BigDate.HK.NNNDate.com, port: 45936, type: ss, cipher: aes-128-gcm, password: 610c3122-d2fa-4dd6-a531-62db9b0deb05}
+  - {name: 🇸🇬 新加坡034, server: Global.Japan.BigDate.Tokyo.NNNDate.com, port: 45918, type: ss, cipher: aes-256-gcm, password: 610c3122-d2fa-4dd6-a531-62db9b0deb05}
+  - {name: 🇸🇬 新加坡035, server: Global.Japan.BigDate.Tokyo.NNNDate.com, port: 45919, type: ss, cipher: aes-256-gcm, password: 610c3122-d2fa-4dd6-a531-62db9b0deb05}
+  - {name: 🇰🇷 韩国036, server: Global.Japan.BigDate.Tokyo.NNNDate.com, port: 45920, type: ss, cipher: aes-256-gcm, password: 610c3122-d2fa-4dd6-a531-62db9b0deb05}
+  - {name: 🇰🇷 韩国037, server: Global.Japan.BigDate.Tokyo.NNNDate.com, port: 45921, type: ss, cipher: aes-256-gcm, password: 610c3122-d2fa-4dd6-a531-62db9b0deb05}
+  - {name: 🇺🇸 美国069, server: Global.Japan.BigDate.USA.NNNDate.com, port: 45938, type: ss, cipher: aes-256-gcm, password: 610c3122-d2fa-4dd6-a531-62db9b0deb05}
+  - {name: 🇺🇸 美国067, server: Global.Japan.BigDate.USA.NNNDate.com, port: 45935, type: ss, cipher: aes-256-gcm, password: 610c3122-d2fa-4dd6-a531-62db9b0deb05}
+  - {name: 🇺🇸 美国038, server: Global.Japan.BigDate.USA.NNNDate.com, port: 45922, type: ss, cipher: aes-256-gcm, password: 610c3122-d2fa-4dd6-a531-62db9b0deb05}
+  - {name: 🇺🇸 美国039, server: Global.Japan.BigDate.USA.NNNDate.com, port: 45923, type: ss, cipher: aes-256-gcm, password: 610c3122-d2fa-4dd6-a531-62db9b0deb05}
+  - {name: 🇺🇸 美国040, server: Global.Japan.BigDate.USA.NNNDate.com, port: 45924, type: ss, cipher: aes-256-gcm, password: 610c3122-d2fa-4dd6-a531-62db9b0deb05}
+  - {name: 🇺🇸 美国解锁流媒体026, server: Global.Japan.BigDate.America.NNNDate.com, port: 45909, type: ss, cipher: aes-256-gcm, password: 610c3122-d2fa-4dd6-a531-62db9b0deb05}
+  - {name: 🇺🇸 美国解锁流媒体025, server: Global.Japan.BigDate.America.NNNDate.com, port: 45908, type: ss, cipher: aes-256-gcm, password: 610c3122-d2fa-4dd6-a531-62db9b0deb05}
+  - {name: 🇫🇷 法国043, server: Global.Japan.BigDate.FuKui.NNNDate.com, port: 45927, type: ss, cipher: aes-256-gcm, password: 610c3122-d2fa-4dd6-a531-62db9b0deb05}
+  - {name: 🇩🇪 德国044, server: Global.Japan.BigDate.FuKui.NNNDate.com, port: 45928, type: ss, cipher: aes-256-gcm, password: 610c3122-d2fa-4dd6-a531-62db9b0deb05}
+  - {name: 🇬🇧 英国045, server: Global.Japan.BigDate.FuKui.NNNDate.com, port: 45929, type: ss, cipher: aes-256-gcm, password: 610c3122-d2fa-4dd6-a531-62db9b0deb05}
+  - {name: 🇨🇦 加拿大070, server: Global.Japan.BigDate.FuKui.NNNDate.com, port: 45940, type: ss, cipher: aes-256-gcm, password: 610c3122-d2fa-4dd6-a531-62db9b0deb05}
+  - {name: 墨西哥049, server: Global.Japan.BigDate.FuKui.NNNDate.com, port: 45933, type: ss, cipher: aes-256-gcm, password: 610c3122-d2fa-4dd6-a531-62db9b0deb05}
+  - {name: 🇹🇷 土耳其042, server: Global.Japan.BigDate.FuKui.NNNDate.com, port: 45926, type: ss, cipher: aes-256-gcm, password: 610c3122-d2fa-4dd6-a531-62db9b0deb05}
+  - {name: 🇦🇺 澳大利亚071, server: Global.Japan.BigDate.FuKui.NNNDate.com, port: 45941, type: ss, cipher: aes-256-gcm, password: 610c3122-d2fa-4dd6-a531-62db9b0deb05}
+  - {name: 🇹🇭 泰国041, server: Global.Japan.BigDate.FuKui.NNNDate.com, port: 45925, type: ss, cipher: aes-256-gcm, password: 610c3122-d2fa-4dd6-a531-62db9b0deb05}
+  - {name: 🇷🇺 俄罗斯046, server: Global.Japan.BigDate.FuKui.NNNDate.com, port: 45930, type: ss, cipher: aes-256-gcm, password: 610c3122-d2fa-4dd6-a531-62db9b0deb05}
+  - {name: 🇻🇳 越南047, server: Global.Japan.BigDate.FuKui.NNNDate.com, port: 45931, type: ss, cipher: aes-256-gcm, password: 610c3122-d2fa-4dd6-a531-62db9b0deb05}
+  - {name: 🇮🇳 印度048, server: Global.Japan.BigDate.FuKui.NNNDate.com, port: 45932, type: ss, cipher: aes-256-gcm, password: 610c3122-d2fa-4dd6-a531-62db9b0deb05}
+  - {name: 10x计费IPLC游戏专线|仅游戏|, server: global.hongkong.bgp.nnndate.com, port: 45571, type: ss, cipher: chacha20-ietf-poly1305, password: 610c3122-d2fa-4dd6-a531-62db9b0deb05}
+  - {name: 10x计费IPLC游戏专线|仅游戏||, server: global.hongkong.bgp.nnndate.com, port: 45572, type: ss, cipher: chacha20-ietf-poly1305, password: 610c3122-d2fa-4dd6-a531-62db9b0deb05}
